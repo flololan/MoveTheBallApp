@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppliBilleGravite</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="resume">Utilisation de l\'unique capteur dispo sur cette tablette : l\'accéléromètre !</string>
+    <string name="pousseAGauche">poussée à gauche</string>
+    <string name="PousseADroite">Poussée à droite</string>
+    <string name="pousseHaut">Poussée vers le haut</string>
+    <string name="pousseBas">Poussée vers le bas</string>
+    <string name="message">message</string>
+</resources>
